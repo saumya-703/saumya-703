@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python and Backend Development
 - 👯 I’m looking to collaborate on different projects. Ping me if you want any help!!
-- 📫 How to reach me: 📞 Phone: +91-6387259383 🇮🇳
-                      📧 E- Mail: saumyav703@gmail.com
+- 📫 How to reach me: 📞 Phone: +91-6387259383 🇮🇳  
+                         📧 E- Mail: saumyav703@gmail.com
 - 😄 Pronouns: she/Her 
 <!--
 **saumya-703/saumya-703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
