@@ -3,12 +3,12 @@
 - 👯 I’m looking to collaborate on different projects. Ping me if you want any help!!
 - 📫 How to reach me: 📞 Phone: +91-6387259383 🇮🇳  
                          📧 E- Mail: saumyav703@gmail.com
-- 😄 Pronouns: she/Her 
+- 😄 Pronouns: she/Her
+- <h1> Learn About Saumya...</h1>
 <!--
 **saumya-703/saumya-703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<h1> Learn About Saumya...</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
