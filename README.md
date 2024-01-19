@@ -1,4 +1,4 @@
-### Hi there ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 - 🌱 I’m currently learning Frontend Developer and UI/UX Designer
 - 👯 I’m looking to collaborate on different projects. Ping me if you want any help!!
 - 📫 How to reach me: 📞 Phone: +91-6387259383 🇮🇳  
